@@ -1,0 +1,5 @@
+ctf[keylog_over_udp]
+ctf[resurrection]
+ctf[aguess]
+ctf[cutenessie4eva]
+ctf[i n a e n i u g a s a u u s a a] alt ctf[I G U A N A S A U R U S]

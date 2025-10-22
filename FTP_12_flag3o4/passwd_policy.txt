@@ -1,0 +1,9 @@
+It is important to secure and protect our data. This is done using SUPERSECURE passwords.
+Lucky for us, we have gotten hold of a great password list. The policy is as following:
+
+1. Always use passwords from our password list, "rockyou.txt", you can find it online.
+2. Do not alter the password from the list.
+3. Never change your password.
+4. The shorter the better, so you remember them.
+5. Always add the flag format surrounding your password.
+6. When you need to change your password, fill in the password reset form in the lobby of the building.

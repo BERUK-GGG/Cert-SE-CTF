@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Oct 16 10:35:01 2025
+Invocation: foremost -i sdcard_copy.img -o recoverd_foremost 
+Output directory: /Users/berukgirmay/DEV/CERT/recoverd_foremost
+Configuration file: /opt/homebrew/etc/foremost.conf
+------------------------------------------------------------------
+File: sdcard_copy.img
+Start: Thu Oct 16 10:35:01 2025
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000120.png 	       1 MB 	      61440 	  (819 x 1227)
+1:	00003872.png 	       2 MB 	    1982464 	  (819 x 1227)
+2:	00008428.png 	       1 MB 	    4315136 	  (819 x 1227)
+3:	00012112.png 	       1 MB 	    6201344 	  (819 x 1227)
+4:	00016012.png 	       2 MB 	    8198144 	  (851 x 1275)
+Finish: Thu Oct 16 10:35:01 2025
+
+5 FILES EXTRACTED
+	
+png:= 5
+------------------------------------------------------------------
+
+Foremost finished at Thu Oct 16 10:35:01 2025

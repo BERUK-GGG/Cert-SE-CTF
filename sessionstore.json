@@ -1,0 +1,368 @@
+{
+  "version": [
+    "sessionrestore",
+    1
+  ],
+  "windows": [
+    {
+      "tabs": [
+        {
+          "entries": [
+            {
+              "url": "about:home",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 3,
+              "docshellUUID": "{abcd136f-fad2-46b9-a387-683841f7043b}",
+              "resultPrincipalURI": null,
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{cc6000a0-c47d-44f3-b152-6d8451578e77}\"}}",
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 4,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#16n4[2t",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 15,
+              "docshellUUID": "{abcd136f-fad2-46b9-a387-683841f7043b}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#16n4[2t",
+              "resultPrincipalURI": "https://cert.se/#16n4[2t",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{228b1ff6-8da2-4570-baf6-aaee44c51321}?http://cert.se\"}}",
+              "hasUserInteraction": false,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 17,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129005308,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 16,
+              "docshellUUID": "{260eaf8d-7661-45e2-b43d-b8e932daa87b}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 18,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#13t1c3f",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 20,
+              "docshellUUID": "{260eaf8d-7661-45e2-b43d-b8e932daa87b}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#13t1c3f",
+              "resultPrincipalURI": "https://cert.se/#13t1c3f",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{c03e15bd-fdef-4036-8224-de4d2c6cdcff}?http://cert.se\"}}",
+              "hasUserInteraction": false,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 24,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129009974,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 19,
+              "docshellUUID": "{aac4d349-4557-4f79-b7bc-96a8fc75ddd2}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 22,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#17]12c5r",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 22,
+              "docshellUUID": "{aac4d349-4557-4f79-b7bc-96a8fc75ddd2}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#17]12c5r",
+              "resultPrincipalURI": "https://cert.se/#17]12c5r",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{928bc9ae-def6-4fca-8dbe-266971e644ff}?http://cert.se\"}}",
+              "hasUserInteraction": false,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 27,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129049579,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 21,
+              "docshellUUID": "{ac7322d4-bd21-4270-8e6e-f190a3daf44c}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 25,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#6e8u11e",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 24,
+              "docshellUUID": "{ac7322d4-bd21-4270-8e6e-f190a3daf44c}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#6e8u11e",
+              "resultPrincipalURI": "https://cert.se/#6e8u11e",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{13b680f7-d64e-49cf-871c-7efdf9ee711e}?http://cert.se\"}}",
+              "hasUserInteraction": false,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 30,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129059128,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 25,
+              "docshellUUID": "{00182826-9043-47bb-a6e9-05aa584fe08c}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 31,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#15o7s9r",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 28,
+              "docshellUUID": "{00182826-9043-47bb-a6e9-05aa584fe08c}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#15o7s9r",
+              "resultPrincipalURI": "https://cert.se/#15o7s9r",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{7fec9a8f-6e1b-4f56-8231-201f44f96ef2}?http://cert.se\"}}",
+              "hasUserInteraction": false,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 36,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129065908,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 23,
+              "docshellUUID": "{0759d55a-1115-4e60-a4de-ff806f867be8}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 28,
+              "transient": false
+            },
+            {
+              "url": "https://cert.se/#10r14i",
+              "title": "CERT-SE - Sveriges nationella CSIRT",
+              "cacheKey": 0,
+              "ID": 26,
+              "docshellUUID": "{0759d55a-1115-4e60-a4de-ff806f867be8}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "http://cert.se/#10r14i",
+              "resultPrincipalURI": "https://cert.se/#10r14i",
+              "loadReplace": true,
+              "loadReplace2": true,
+              "contentType": "text/html",
+              "principalToInherit_base64": "{\"0\":{\"0\":\"moz-nullprincipal:{c883fd1f-7993-438b-9e29-f31626674199}?http://cert.se\"}}",
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 33,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129046338,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 2,
+          "requestedIndex": 0,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVQ4je2TsQ3CMBBF3zFBPAEL4UyQxlvRUSHRh54lWIAmbU6hI1JMgWPZSoTijoJf2b73nyxZFu89AHo1n8XGVIdeAHYlpbX8Bb8meBX0IpsK7gWCyKaCS4EgsqngCHQbyl1gc4Gx+gQaYPxSHoEmsIsbYKzeAAdMK+UJcIGJWTyjsXoGamBIjgegDrMsMn9nEckGfVvtgVPYOmP1kc7n3hthhC5vh/jF6AAAAABJRU5ErkJggg=="
+        },
+        {
+          "entries": [
+            {
+              "url": "about:newtab",
+              "title": "New Tab",
+              "cacheKey": 0,
+              "ID": 27,
+              "docshellUUID": "{5176ff30-b7a9-4592-bef1-e6b4b32728ea}",
+              "resultPrincipalURI": null,
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 34,
+              "transient": false
+            },
+            {
+              "url": "https://duckduckgo.com/?t=ffab&q=loch+ness&ia=web",
+              "title": "loch ness at DuckDuckGo",
+              "cacheKey": 0,
+              "ID": 30,
+              "docshellUUID": "{5176ff30-b7a9-4592-bef1-e6b4b32728ea}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYAAAAAAAAAAAABAQAAAAABAA==",
+              "originalURI": "https://duckduckgo.com/?t=ffab&q=loch+ness&ia=web",
+              "resultPrincipalURI": null,
+              "presState": [
+                {
+                  "stateKey": "0>html>1",
+                  "scroll": "0,55369"
+                }
+              ],
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"3\":{}}",
+              "docIdentifier": 38,
+              "structuredCloneState": "AgAAAAAA8f8AAAAACAD//wcAAIAEAP//dnFkRGF0YQAAAAAACAD//wMAAIAEAP//dnFkAAAAAAAmAACABAD//zQtNzA3MDM3MDc1MjA4MjE2MjA1NTUzNzA0MTE1NDQ5MDc3NjQxAAANAACABAD//3RpbWVWcWRMb2FkZWQAAAAAwGmZipV5QgAAAAATAP//AwAAgAQA//9pZHgAAAAAAAAAAAADAP//DwAAgAQA//9oaXN0b3J5VXRpbERhdGEAAAAAAAgA//8BAACABAD//3QAAAAAAAAABAAAgAQA//9mZmFiAAAAAAEAAIAEAP//cQAAAAAAAAAJAACABAD//2xvY2ggbmVzcwAAAAAAAAACAACABAD//2lhAAAAAAAAAwAAgAQA//93ZWIAAAAAAAAAAAATAP//CAAAgAQA//9iYWNrRGF0YQAAAAAIAP//AgAAgAQA//9pZAAAAAAAABEAAIAEAP//d2lraXBlZGlhX2ZhdGhlYWQAAAAAAAAABAAAgAQA//9kYXRhAAAAAAAAAAAIAP//BAAAgAQA//9zZXhwAAAAAAAAAAAIAP//CwAAgAQA//9hZGJsb2NrX2V4cAAAAAAAAQAAgAQA//9hAAAAAAAAAAsAAIAEAP//YWloZWFkZXJleHAAAAAAAAEAAIAEAP//YgAAAAAAAAAGAACABAD//2JpYWV4cAAAAQAAgAQA//9iAAAAAAAAABgAAIAEAP//ZGlzYWJsZXJlZGRpdG1ldGFkYXRhZXhwAQAAgAQA//9iAAAAAAAAABQAAIAEAP//ZHVja2FpaW5hdXRvY29tcGxldGUAAAAAAQAAgAQA//9iAAAAAAAAAA4AAIAEAP//ZHVja2NoYXRfYWxwaGEAAAEAAIAEAP//YgAAAAAAAAAPAACABAD//2V4dGVybmFsbWFwc2V4cAABAACABAD//2IAAAAAAAAABgAAgAQA//9saXRleHAAAAEAAIAEAP//YQAAAAAAAAAIAACABAD//21zdnJ0ZXhwAQAAgAQA//9iAAAAAAAAAAwAAIAEAP//c2VhcmNoYmFyZXhwAAAAAAEAAIAEAP//YgAAAAAAAAAQAACABAD//3N0YWNrZWRyZWRkaXRleHABAACABAD//2IAAAAAAAAABwAAgAQA//90b29sZXhwAAEAAIAEAP//YgAAAAAAAAAKAACABAD//3dlYXRoZXJleHAAAAAAAAABAACABAD//2IAAAAAAAAAAAAAABMA//8EAACABAD//3BhZ2UAAAAAAQAAAAMA//8XAACABAD//3RpbWVFeHRlcm5hbExpbmtDbGlja2VkAPTrymgDAP//AgAAgAQA//9vdAAAAAAAAAEAAIAEAP//aQAAAAAAAAAAAAAAEwD//wwAAIAEAP//aXNTZXJwUmV0dXJuAAAAAAEAAAACAP//DgAAgAQA//9pc0JvdW5jZVNpZ25hbAAAAQAAAAIA//8AAAAAEwD//wAAAAATAP//",
+              "structuredCloneVersion": 8,
+              "transient": false
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Loch_Ness",
+              "title": "Loch Ness - Wikipedia",
+              "cacheKey": 0,
+              "ID": 32,
+              "docshellUUID": "{5176ff30-b7a9-4592-bef1-e6b4b32728ea}",
+              "referrerInfo": "BBoSnxDOS9qmDeAnom1e0AAAAAAAAAAAwAAAAAAAAEYBAAAAMWh0dHBzOi8vZHVja2R1Y2tnby5jb20vP3Q9ZmZhYiZxPWxvY2grbmVzcyZpYT13ZWIAAAADAAAAAwEBAAAAF2h0dHBzOi8vZHVja2R1Y2tnby5jb20vAQA=",
+              "resultPrincipalURI": null,
+              "principalToInherit_base64": "{\"1\":{\"0\":\"https://duckduckgo.com/?t=ffab&q=loch+ness\"}}",
+              "hasUserInteraction": true,
+              "triggeringPrincipal_base64": "{\"1\":{\"0\":\"https://duckduckgo.com/?t=ffab&q=loch+ness\"}}",
+              "csp": "CdntGuXUQAS/4CfOuSPZrAAAAAAAAAAAwAAAAAAAAEYB3pRy0IA0EdOTmQAQS6D9QJIHOlRteE8wkTq4cYEyCMYAAAAC/////wAAAbsBAAAAKmh0dHBzOi8vZHVja2R1Y2tnby5jb20vP3Q9ZmZhYiZxPWxvY2grbmVzcwAAAAAAAAAFAAAACAAAAA4AAAAI/////wAAAAj/////AAAACAAAAA4AAAAWAAAAFAAAABYAAAABAAAAFgAAAAEAAAAXAAAAAAAAABf/////AAAAAP////8AAAAYAAAAEgAAABb/////AQAAAAAAAAAAADh7IjEiOnsiMCI6Imh0dHBzOi8vZHVja2R1Y2tnby5jb20vP3Q9ZmZhYiZxPWxvY2grbmVzcyJ9fQAAAAEAAAcIAGQAZQBmAGEAdQBsAHQALQBzAHIAYwAgACcAbgBvAG4AZQAnADsAIABjAG8AbgBuAGUAYwB0AC0AcwByAGMAIABoAHQAdABwAHMAOgAvAC8AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtACAAaAB0AHQAcABzADoALwAvACoALgBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AZAB1AGMAawBkAHUAYwBrAGcAbwBnAGcANAAyAHgAagBvAGMANwAyAHgAMwBzAGoAYQBzAG8AdwBvAGEAcgBmAGIAZwBjAG0AdgBmAGkAbQBhAGYAdAB0ADYAdAB3AGEAZwBzAHcAegBjAHoAYQBkAC4AbwBuAGkAbwBuAC8AIABoAHQAdABwAHMAOgAvAC8AcwBwAHIAZQBhAGQAcAByAGkAdgBhAGMAeQAuAGMAbwBtADsAIABtAGEAbgBpAGYAZQBzAHQALQBzAHIAYwAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AKgAuAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAGcAZwA0ADIAeABqAG8AYwA3ADIAeAAzAHMAagBhAHMAbwB3AG8AYQByAGYAYgBnAGMAbQB2AGYAaQBtAGEAZgB0AHQANgB0AHcAYQBnAHMAdwB6AGMAegBhAGQALgBvAG4AaQBvAG4ALwAgAGgAdAB0AHAAcwA6AC8ALwBzAHAAcgBlAGEAZABwAHIAaQB2AGEAYwB5AC4AYwBvAG0AOwAgAG0AZQBkAGkAYQAtAHMAcgBjACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwAqAC4AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8AZwBnADQAMgB4AGoAbwBjADcAMgB4ADMAcwBqAGEAcwBvAHcAbwBhAHIAZgBiAGcAYwBtAHYAZgBpAG0AYQBmAHQAdAA2AHQAdwBhAGcAcwB3AHoAYwB6AGEAZAAuAG8AbgBpAG8AbgAvACAAaAB0AHQAcABzADoALwAvAHMAcAByAGUAYQBkAHAAcgBpAHYAYQBjAHkALgBjAG8AbQA7ACAAcwBjAHIAaQBwAHQALQBzAHIAYwAgAGIAbABvAGIAOgAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AKgAuAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAGcAZwA0ADIAeABqAG8AYwA3ADIAeAAzAHMAagBhAHMAbwB3AG8AYQByAGYAYgBnAGMAbQB2AGYAaQBtAGEAZgB0AHQANgB0AHcAYQBnAHMAdwB6AGMAegBhAGQALgBvAG4AaQBvAG4ALwAgAGgAdAB0AHAAcwA6AC8ALwBzAHAAcgBlAGEAZABwAHIAaQB2AGEAYwB5AC4AYwBvAG0AIAAnAHUAbgBzAGEAZgBlAC0AaQBuAGwAaQBuAGUAJwAgACcAdQBuAHMAYQBmAGUALQBlAHYAYQBsACcAOwAgAGYAbwBuAHQALQBzAHIAYwAgAGQAYQB0AGEAOgAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AKgAuAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAGcAZwA0ADIAeABqAG8AYwA3ADIAeAAzAHMAagBhAHMAbwB3AG8AYQByAGYAYgBnAGMAbQB2AGYAaQBtAGEAZgB0AHQANgB0AHcAYQBnAHMAdwB6AGMAegBhAGQALgBvAG4AaQBvAG4ALwAgAGgAdAB0AHAAcwA6AC8ALwBzAHAAcgBlAGEAZABwAHIAaQB2AGEAYwB5AC4AYwBvAG0AOwAgAGkAbQBnAC0AcwByAGMAIABkAGEAdABhADoAIABoAHQAdABwAHMAOgAvAC8AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtACAAaAB0AHQAcABzADoALwAvACoALgBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AZAB1AGMAawBkAHUAYwBrAGcAbwBnAGcANAAyAHgAagBvAGMANwAyAHgAMwBzAGoAYQBzAG8AdwBvAGEAcgBmAGIAZwBjAG0AdgBmAGkAbQBhAGYAdAB0ADYAdAB3AGEAZwBzAHcAegBjAHoAYQBkAC4AbwBuAGkAbwBuAC8AIABoAHQAdABwAHMAOgAvAC8AcwBwAHIAZQBhAGQAcAByAGkAdgBhAGMAeQAuAGMAbwBtADsAIABzAHQAeQBsAGUALQBzAHIAYwAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AKgAuAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAGcAZwA0ADIAeABqAG8AYwA3ADIAeAAzAHMAagBhAHMAbwB3AG8AYQByAGYAYgBnAGMAbQB2AGYAaQBtAGEAZgB0AHQANgB0AHcAYQBnAHMAdwB6AGMAegBhAGQALgBvAG4AaQBvAG4ALwAgAGgAdAB0AHAAcwA6AC8ALwBzAHAAcgBlAGEAZABwAHIAaQB2AGEAYwB5AC4AYwBvAG0AIAAnAHUAbgBzAGEAZgBlAC0AaQBuAGwAaQBuAGUAJwA7ACAAbwBiAGoAZQBjAHQALQBzAHIAYwAgACcAbgBvAG4AZQAnADsAIAB3AG8AcgBrAGUAcgAtAHMAcgBjACAAYgBsAG8AYgA6ADsAIABjAGgAaQBsAGQALQBzAHIAYwAgAGIAbABvAGIAOgAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAC4AYwBvAG0AIABoAHQAdABwAHMAOgAvAC8AKgAuAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwBkAHUAYwBrAGQAdQBjAGsAZwBvAGcAZwA0ADIAeABqAG8AYwA3ADIAeAAzAHMAagBhAHMAbwB3AG8AYQByAGYAYgBnAGMAbQB2AGYAaQBtAGEAZgB0AHQANgB0AHcAYQBnAHMAdwB6AGMAegBhAGQALgBvAG4AaQBvAG4ALwAgAGgAdAB0AHAAcwA6AC8ALwBzAHAAcgBlAGEAZABwAHIAaQB2AGEAYwB5AC4AYwBvAG0AOwAgAGYAcgBhAG0AZQAtAHMAcgBjACAAYgBsAG8AYgA6ACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwAqAC4AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8AZwBnADQAMgB4AGoAbwBjADcAMgB4ADMAcwBqAGEAcwBvAHcAbwBhAHIAZgBiAGcAYwBtAHYAZgBpAG0AYQBmAHQAdAA2AHQAdwBhAGcAcwB3AHoAYwB6AGEAZAAuAG8AbgBpAG8AbgAvACAAaAB0AHQAcABzADoALwAvAHMAcAByAGUAYQBkAHAAcgBpAHYAYQBjAHkALgBjAG8AbQA7ACAAZgBvAHIAbQAtAGEAYwB0AGkAbwBuACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8ALgBjAG8AbQAgAGgAdAB0AHAAcwA6AC8ALwAqAC4AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtACAAaAB0AHQAcABzADoALwAvAGQAdQBjAGsAZAB1AGMAawBnAG8AZwBnADQAMgB4AGoAbwBjADcAMgB4ADMAcwBqAGEAcwBvAHcAbwBhAHIAZgBiAGcAYwBtAHYAZgBpAG0AYQBmAHQAdAA2AHQAdwBhAGcAcwB3AHoAYwB6AGEAZAAuAG8AbgBpAG8AbgAvACAAaAB0AHQAcABzADoALwAvAHMAcAByAGUAYQBkAHAAcgBpAHYAYQBjAHkALgBjAG8AbQA7ACAAZgByAGEAbQBlAC0AYQBuAGMAZQBzAHQAbwByAHMAIAAnAHMAZQBsAGYAJwAgAGgAdAB0AHAAcwA6AC8ALwBoAHQAbQBsAC4AZAB1AGMAawBkAHUAYwBrAGcAbwAuAGMAbwBtADsAIABiAGEAcwBlAC0AdQByAGkAIAAnAHMAZQBsAGYAJwA7ACAAYgBsAG8AYwBrAC0AYQBsAGwALQBtAGkAeABlAGQALQBjAG8AbgB0AGUAbgB0AAAA",
+              "docIdentifier": 45,
+              "transient": false
+            }
+          ],
+          "lastAccessed": 1758129153708,
+          "hidden": false,
+          "searchMode": null,
+          "userContextId": 0,
+          "attributes": {},
+          "index": 3,
+          "requestedIndex": 0,
+          "image": "data:image/x-icon;base64,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",
+          "formdata": {
+            "url": "https://en.wikipedia.org/wiki/Loch_Ness",
+            "id": {
+              "skin-client-pref-vector-feature-custom-font-size-value-1": true,
+              "skin-client-pref-vector-feature-limited-width-value-1": true,
+              "skin-client-pref-skin-theme-value-day": true
+            }
+          }
+        }
+      ],
+      "groups": [],
+      "closedGroups": [],
+      "selected": 7,
+      "_closedTabs": [],
+      "_lastClosedTabGroupCount": -1,
+      "lastClosedTabGroupId": null,
+      "chromeFlags": 2167541758,
+      "width": 1191,
+      "height": 1100,
+      "screenX": 0,
+      "screenY": 0,
+      "sizemode": "normal",
+      "sizemodeBeforeMinimized": "normal",
+      "sidebar": {
+        "command": "",
+        "panelOpen": false,
+        "launcherWidth": 55,
+        "launcherExpanded": false,
+        "launcherVisible": true
+      },
+      "zIndex": 1,
+      "title": "Loch Ness - Wikipedia",
+      "_shouldRestore": true,
+      "closedAt": 1758129153708,
+      "closedId": 0
+    }
+  ],
+  "selectedWindow": 0,
+  "_closedWindows": [],
+  "savedGroups": [],
+  "session": {
+    "lastUpdate": 1758129153749,
+    "startTime": 1758128973653,
+    "recentCrashes": 0
+  },
+  "global": {}
+}
