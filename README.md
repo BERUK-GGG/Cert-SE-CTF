@@ -176,7 +176,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 ### Status: "Nästan där!"
 Flera potentiella flaggmönster identifierade. Sen gick jag vidare till en annan HTTP request som skedde... (fortsättning följer)
 
-## Flagga 7: Det Dövande IGUANASAURUS-äventyret - ctf[I G U A N A S A U R U S]
+## Flagga 7:  ctf[I G U A N A S A U R U S]
 
 ### Upptäcktsprocess (AKA "Hur Jag Nästan Förstörde Mina Hörsel")
 
