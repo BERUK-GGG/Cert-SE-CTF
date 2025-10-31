@@ -3,26 +3,33 @@ import numpy as np
 from collections import Counter
 
 # === Configuration ===
-IMAGE_PATH = "CERT-SE.jpg"
+IMAGE_PATH = "cert_jpg/CERT-SE.jpeg"
 
 
 import matplotlib.pyplot as plt
 
-img = Image.open("CERT-SE.jpeg")
-plt.imshow(img)
+img = Image.open(IMAGE_PATH)
+'''plt.imshow(img)
 plt.title("Click on the top-left corner of first color block")
-plt.show()
+plt.show()'''
 
 # You can crop manually to the colored grid section
-'''CROP_BOX = (1300, 100, 1800, 250)  # (left, upper, right, lower) — adjust these!
-
+CROP_BOX = (1860, 125, 2226, 300)  # (left, upper, right, lower) — adjust these!
+CROP_BOX1 = (1860, 125, 1914, 179)
 # === Load and crop ===
 img = Image.open(IMAGE_PATH)
+
 flag_area = img.crop(CROP_BOX)
+
+
+pix1 = img.crop(CROP_BOX1)
+plt.imshow(pix1)
+#plt.title("Click on the top-left corner of first color block")
+plt.show()
 pixels = np.array(flag_area)
 
 h, w, _ = pixels.shape
-print(f"Cropped area: {w}x{h}")
+print(f"{pixels}")
 
 
 # Reshape into a list of RGB pixels
@@ -40,7 +47,8 @@ sorted_colors = sorted(zip(counts, color_tuples), key=lambda x: x[0], reverse=Tr
 print(f"Top 10 colors:")
 for c, col in sorted_colors[:10]:
     print(f"{col} - {c} pixels")
-
+    
+'''
 # === Try to detect pattern size ===
 # For example, find vertical/horizontal repeating blocks
 block_size = 8  # adjust if the color squares are ~8x8 or 10x10 pixels
